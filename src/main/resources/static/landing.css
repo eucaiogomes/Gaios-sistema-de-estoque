@@ -30,6 +30,12 @@ a { text-decoration: none; }
   letter-spacing: 2px;
 }
 
+.nav-logo-img {
+  height: 36px;
+  width: auto;
+  object-fit: contain;
+}
+
 .nav-btn {
   padding: 8px 22px;
   background: #1D4ED8;
